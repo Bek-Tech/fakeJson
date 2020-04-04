@@ -64,70 +64,70 @@
         ],
         "purchases": [
             {
-                "_id": 5,
+                "_id": 1,
                 "quantity": 9136,
                 "product": "green",
                 "date": "2019-06-28",
                 "time": "2:26"
             },
             {
-                "_id": 9,
+                "_id": 2,
                 "quantity": 2148,
                 "product": "blue",
                 "date": "2019-06-29",
                 "time": "2:6"
             },
             {
-                "_id": 6,
+                "_id": 3,
                 "quantity": 1405,
                 "product": "green",
                 "date": "2019-06-13",
                 "time": "8:43"
             },
             {
-                "_id": 5,
+                "_id": 4,
                 "quantity": 3259,
                 "product": "blue",
                 "date": "2019-06-18",
                 "time": "16:59"
             },
             {
-                "_id": 2,
+                "_id": 5,
                 "quantity": 6050,
                 "product": "brown",
-                "date": "Sun Feb 02 2020 04:45:51 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-18",
                 "time": "6:19"
             },
             {
-                "_id": 0,
+                "_id": 6,
                 "quantity": 3844,
                 "product": "brown",
                 "date": "2019-06-02",
                 "time": "14:54"
             },
             {
-                "_id": 0,
+                "_id": 7,
                 "quantity": 3270,
                 "product": "brown",
                 "date": "2019-06-30",
                 "time": "6:19"
             },
             {
-                "_id": 3,
+                "_id": 8,
                 "quantity": 7345,
                 "product": "green",
                 "date": "2019-06-28",
                 "time": "3:49"
             },
             {
-                "_id": 6,
+                "_id": 9,
                 "quantity": 2037,
                 "product": "green",
                 "date": "2019-06-28",
                 "time": "16:4"
             },
             {
-                "_id": 7,
+                "_id": 10,
                 "quantity": 8171,
                 "product": "blue",
                 "date": "2019-06-29",
