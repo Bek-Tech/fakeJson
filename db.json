@@ -67,28 +67,28 @@
                 "_id": 5,
                 "quantity": 9136,
                 "product": "green",
-                "date": "Mon Mar 02 2020 07:24:11 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-28",
                 "time": "2:26"
             },
             {
                 "_id": 9,
                 "quantity": 2148,
                 "product": "blue",
-                "date": "Thu Feb 13 2020 01:02:13 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-29",
                 "time": "2:6"
             },
             {
                 "_id": 6,
                 "quantity": 1405,
                 "product": "green",
-                "date": "Wed Feb 19 2020 15:39:10 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-13",
                 "time": "8:43"
             },
             {
                 "_id": 5,
                 "quantity": 3259,
                 "product": "blue",
-                "date": "Tue Mar 03 2020 01:14:38 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-18",
                 "time": "16:59"
             },
             {
@@ -102,35 +102,35 @@
                 "_id": 0,
                 "quantity": 3844,
                 "product": "brown",
-                "date": "Tue Feb 11 2020 09:48:03 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-02",
                 "time": "14:54"
             },
             {
                 "_id": 0,
                 "quantity": 3270,
                 "product": "brown",
-                "date": "Thu Mar 05 2020 05:57:29 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-30",
                 "time": "6:19"
             },
             {
                 "_id": 3,
                 "quantity": 7345,
                 "product": "green",
-                "date": "Sun Apr 26 2020 18:01:04 GMT-0400 (Cuba Daylight Time)",
+                "date": "2019-06-28",
                 "time": "3:49"
             },
             {
                 "_id": 6,
                 "quantity": 2037,
                 "product": "green",
-                "date": "Wed Feb 12 2020 04:06:34 GMT-0500 (Cuba Standard Time)",
+                "date": "2019-06-28",
                 "time": "16:4"
             },
             {
                 "_id": 7,
                 "quantity": 8171,
                 "product": "blue",
-                "date": "Mon May 04 2020 00:38:44 GMT-0400 (Cuba Daylight Time)",
+                "date": "2019-06-29",
                 "time": "22:21"
             }
         ]
